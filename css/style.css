@@ -603,7 +603,7 @@ legend {
 .dorm-card-actions {
   margin-top: auto;
   padding-top: 0.75rem;
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(#1d4ed8;);
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
