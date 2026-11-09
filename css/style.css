@@ -396,7 +396,7 @@ legend {
 }
 
 .btn-primary {
-  background-color: var(--color-primary);
+  background-color: red;
   color: #ffffff;
 }
 
